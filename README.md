@@ -5,7 +5,7 @@ Este projeto é uma aplicação interativa desenvolvida para explorar e analisar
 Pode aceder ao dashboard em tempo real aqui: https://projetodadospython.streamlit.app/
 
 🚀 Funcionalidades
-Métricas em Tempo Real: Visualização do salário médio, salário máximo, total de registos e o cargo mais frequente.
+Métricas: Visualização do salário médio, salário máximo, total de registos e o cargo mais frequente.
 
 Gráficos Interativos: Top 10 Cargos, Distribuição Salarial, Proporção de Trabalho Remoto e um Mapa Global para Cientistas de Dados.
 
