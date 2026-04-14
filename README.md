@@ -22,6 +22,7 @@ Pandas: Manipulação e limpeza de dados.
 Plotly: Gráficos dinâmicos.
 
 📁 Estrutura do Projeto
+
 app.py: Código principal da aplicação.
 
 requirements.txt: Dependências do projeto.
@@ -29,6 +30,7 @@ requirements.txt: Dependências do projeto.
 dados-imersao-final.csv: Base de dados utilizada.
 
 🔧 Como Executar Localmente
+
 Clone o repositório.
 
 Instale as dependências: pip install -r requirements.txt.
