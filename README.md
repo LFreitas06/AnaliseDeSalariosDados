@@ -14,6 +14,7 @@ Filtros Dinâmicos: Barra lateral para ajustar a análise por Ano, Senioridade, 
 Exploração de Dados: Tabela detalhada para consulta individual dos registos filtrados.
 
 🛠️ Tecnologias Utilizadas
+
 Streamlit: Interface web.
 
 Pandas: Manipulação e limpeza de dados.
